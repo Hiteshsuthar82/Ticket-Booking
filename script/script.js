@@ -15,7 +15,7 @@ const loader = document.querySelector(".loader-container");
 
 window.addEventListener("DOMContentLoaded", async () => {
   const response = await fetch(
-    `https://tickets-booking-backend-r2b4.onrender.com/api/v1/ticket/${userId}`
+    `https://ticket-booking-backend-omega.vercel.app/api/v1/ticket/${userId}`
   );
   // const response = await fetch(`http://127.0.0.1:3000/api/v1/ticket/${userId}`);
 
