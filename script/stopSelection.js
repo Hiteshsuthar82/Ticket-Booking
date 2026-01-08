@@ -195,6 +195,14 @@ const stops = [
     name: "Athwagate",
     popular: false,
   },
+  {
+    name: "Navyug College Brts",
+    popular: false,
+  },
+  {
+    name: "Jahangirpura Community Hall BRTS",
+    popular: false,
+  },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
