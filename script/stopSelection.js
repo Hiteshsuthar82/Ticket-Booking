@@ -203,6 +203,10 @@ const stops = [
     name: "Jahangirpura Community Hall BRTS",
     popular: false,
   },
+  {
+    name: "Adajan Gam",
+    popular: false,
+  },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
