@@ -207,6 +207,10 @@ const stops = [
     name: "Adajan Gam",
     popular: false,
   },
+  {
+    name: "Sankheshwar Chowk Brts",
+    popular: false,
+  },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
