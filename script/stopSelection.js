@@ -211,6 +211,10 @@ const stops = [
     name: "Sankheshwar Chowk Brts",
     popular: false,
   },
+  {
+    name: "Patrakar Colony Brts",
+    popular: false,
+  },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
