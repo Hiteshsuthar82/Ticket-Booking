@@ -215,6 +215,10 @@ const stops = [
     name: "Patrakar Colony Brts",
     popular: false,
   },
+  {
+    name: "Kailash Nagar Brts",
+    popular: false,
+  },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
